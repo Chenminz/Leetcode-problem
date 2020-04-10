@@ -1,0 +1,4 @@
+Idea:
+
+Create a difference dictionary to through running the list, if we find a new difference in that dictionary, then we find the 
+required two numbers
